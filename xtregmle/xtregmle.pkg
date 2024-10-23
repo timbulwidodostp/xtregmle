@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'xtregmle': Trevor Breusch MLE Random-Effects Panel Data: Ridge and Weighted Regression Use xtregmle With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtregmle.ado
+f xtregmle.dlg
+f xtregmle.sthlp
