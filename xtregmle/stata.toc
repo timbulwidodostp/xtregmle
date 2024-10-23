@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtregmle Trevor Breusch MLE Random-Effects Panel Data: Ridge and Weighted Regression Use xtregmle With STATA 18
