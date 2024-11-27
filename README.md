@@ -1,6 +1,8 @@
 # xtregmle
 Trevor Breusch MLE Random-Effects Panel Data: Ridge and Weighted Regression Use xtregmle With STATA 18
 
+https://www.youtube.com/watch?v=RnZd1tJzPPs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
